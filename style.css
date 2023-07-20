@@ -5,19 +5,20 @@
 }
 @font-face {
   font-family: 'Fugue Regular';
-  src: url('./fonts/Fugue-Regular.ttf');
+  src: url('./fonts/Fugue-Regular/Fugue-Regular.ttf');
 }
 @font-face {
   font-family: 'Proxima Nova';
-  src: url('./fonts/Proxima-Nova-Extra-Condensed/Demo_Fonts/Fontspring-DEMO-proximanova-semibold.otf');
+  src: url('./fonts/Proxima-Nova/Demo-Fonts/Fontspring-DEMO-proximanova-semibold.otf');
+
 }
 @font-face {
   font-family: 'Proxima Nova Light';
-  src: url('./fonts/Proxima-Nova-Extra-Condensed/Demo_Fonts/Fontspring-DEMO-proximanova-light.otf');
+  src: url('./fonts/Proxima-Nova/Demo-Fonts/Fontspring-DEMO-proximanova-light.otf');
 }
 @font-face {
   font-family: 'Proxima Nova Bold';
-  src: url('./fonts/Proxima-Nova-Extra-Condensed/Demo_Fonts/Fontspring-DEMO-proximanova-bold.otf');
+  src: url('./fonts/Proxima-Nova/Demo-Fonts/Fontspring-DEMO-proximanova-bold.otf');
 }
 ul {
   list-style: none;
