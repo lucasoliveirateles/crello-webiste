@@ -263,10 +263,6 @@ header h1 {
   margin: 24px 0;
   text-align: center;
 }
-
-
-
-
 .list ul {
   display: flex;
 }
@@ -286,7 +282,6 @@ header h1 {
 .free-to-use {
   color: #c8c8c8;
 }
-
 .images-one {
   position: absolute;
   top: 70px;
